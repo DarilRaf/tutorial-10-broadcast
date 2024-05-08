@@ -7,3 +7,9 @@
 <h1> Modifying the websocket port </h1>
 
 > When we change one of the port of either client or server, the other side will also need to be on the same port so it could listen to each other.
+
+<h1> Small changes. Add some information to client </h1>
+
+![alt text](image-1.png)
+
+> I've changed the string so that the Client's IP could be seen across the clients.
